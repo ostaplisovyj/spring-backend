@@ -1,0 +1,9 @@
+version: '3.5'
+services:
+
+  postgresql:
+    image: 'postgres:10.3'
+    volumes:
+      - ./.tmp/postgresql:/var/lib/postgresql/data
+    ports:
+      - '5432:5432'

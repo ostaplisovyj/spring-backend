@@ -1,0 +1,7 @@
+include::{snippets}/create-crud-example/curl-request.adoc[]
+include::{snippets}/create-crud-example/http-request.adoc[]
+include::{snippets}/create-crud-example/http-response.adoc[]
+include::{snippets}/create-crud-example/httpie-request.adoc[]
+include::{snippets}/create-crud-example/request-body.adoc[]
+include::{snippets}/create-crud-example/request-fields.adoc[]
+include::{snippets}/create-crud-example/response-body.adoc[]
